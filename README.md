@@ -1,5 +1,7 @@
 # go-design-pattern
 
+> 📖 在线阅读（博客站）：**<https://mouxiaojun.github.io/design-patterns/>**
+
 Go 设计模式学习仓库：23 个 GoF 模式的 **Go 落地示例（`code/`）+ 中文笔记（`document/`）**。
 
 - 学习起点：mohuishou/go-design-pattern（一个经典 Go 设计模式仓库）；本仓库的代码与笔记是在其基础上**用自己的话重写**的练习稿
